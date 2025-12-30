@@ -141,7 +141,7 @@ $$R=\frac{r_{obs}}{r_{exp}}$$
 
 Z-statistic:
 
-Z=\frac{r_{obs}−r_{exp}}{SE}
+$$Z=\frac{r_{obs}−r_{exp}}{SE}$$
 
 where $SE$ is the standard error.
 
